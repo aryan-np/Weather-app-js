@@ -1,4 +1,4 @@
-const apiKey='5887190f62cc29dd352edfe4e4785801'
+const apiKey='your api key'
 const defaultCity="Highland"
 async function fetchData(cityName){
     const url=`https://api.openweathermap.org/data/2.5/weather?q=${cityName}&units=metric&appid=${apiKey}`

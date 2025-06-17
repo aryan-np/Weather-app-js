@@ -1,4 +1,4 @@
-const apiKey='5887190f62cc29dd352edfe4e4785801'
+const apiKey='YOUR API KEY HERE'
 const defaultCity="Highland"
 async function fetchData(cityName){
     
